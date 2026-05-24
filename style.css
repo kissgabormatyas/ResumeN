@@ -1,0 +1,11 @@
+.covered {
+    object-fit: cover;
+    float: left;
+    margin: 10px;
+}
+.gray {
+    background-color: #E4ECF7;
+}
+.white {
+    background-color: white;
+}
